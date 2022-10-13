@@ -28,8 +28,8 @@
 
 ### Spotify Playing 🎧
 <p align="center">
-  <a href="https://open.spotify.com/user/u5evr9xaqvek2g6tlpsqud7mz">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=u5evr9xaqvek2g6tlpsqud7mz&cover_image=true&theme=default&bar_color=b9f0b7)](https://github.com/kittinan/spotify-github-profile">
+  <a href="">
+    <img src="https://cdn.discordapp.com/attachments/922063441345257492/1030200119154462800/2643408-200.png(https://github.com/kittinan/spotify-github-profile">
 
 
 ### My Stats !
