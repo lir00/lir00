@@ -26,9 +26,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> https://hasbulla.lol/ ]
-<br />
-
 ### Spotify Playing 🎧
 <p align="center">
   <a href="https://open.spotify.com/user/u5evr9xaqvek2g6tlpsqud7mz">
